@@ -1,0 +1,422 @@
+{
+  "total_images_processed": 8,
+  "total_objects_detected": 19,
+  "total_barcodes_decoded": 8,
+  "object_type_distribution": {
+    "unknown": 13,
+    "mug": 3,
+    "bottle": 1,
+    "box": 2
+  },
+  "barcode_text_distribution": {
+    "box": 1,
+    "scissors": 3,
+    "sandal": 1,
+    "screwdriver": 1,
+    "wrench": 1,
+    "bottle": 1
+  },
+  "detailed_results": [
+    {
+      "image_index": 1,
+      "objects": [
+        {
+          "object_name": "unknown",
+          "object_type": "unknown",
+          "bbox": [
+            184,
+            1248,
+            152,
+            20
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 1441.0,
+          "aspect_ratio": 7.6,
+          "circularity": 0.14348082146310953
+        },
+        {
+          "object_name": "unknown",
+          "object_type": "unknown",
+          "bbox": [
+            16,
+            1108,
+            213,
+            133
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 7360.5,
+          "aspect_ratio": 1.6015037593984962,
+          "circularity": 0.11880510964537637
+        },
+        {
+          "object_name": "mug",
+          "object_type": "mug",
+          "bbox": [
+            90,
+            982,
+            130,
+            100
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 5732.5,
+          "aspect_ratio": 1.3,
+          "circularity": 0.21116894658247218
+        },
+        {
+          "object_name": "mug",
+          "object_type": "mug",
+          "bbox": [
+            0,
+            952,
+            105,
+            76
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 5287.5,
+          "aspect_ratio": 1.381578947368421,
+          "circularity": 0.5424590427083197
+        },
+        {
+          "object_name": "box",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "box",
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 7993185.5,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.3604045605825312
+        }
+      ]
+    },
+    {
+      "image_index": 2,
+      "objects": [
+        {
+          "object_name": "scissors",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "scissors",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 7805397.0,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.3315364156708804
+        }
+      ]
+    },
+    {
+      "image_index": 3,
+      "objects": [
+        {
+          "object_name": "sandal",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "sandal",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 8107386.5,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.5284371884735205
+        }
+      ]
+    },
+    {
+      "image_index": 4,
+      "objects": [
+        {
+          "object_name": "bottle",
+          "object_type": "bottle",
+          "bbox": [
+            0,
+            929,
+            304,
+            350
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 45898.5,
+          "aspect_ratio": 1.1513157894736843,
+          "circularity": 0.3041231690533901
+        },
+        {
+          "object_name": "unknown",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            854,
+            80,
+            90
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 3730.5,
+          "aspect_ratio": 1.125,
+          "circularity": 0.19444301896239335
+        },
+        {
+          "object_name": "box",
+          "object_type": "box",
+          "bbox": [
+            352,
+            744,
+            225,
+            120
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 11351.5,
+          "aspect_ratio": 1.875,
+          "circularity": 0.11771131509591322
+        },
+        {
+          "object_name": "scissors",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "scissors",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 7926220.5,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.5016314301160546
+        }
+      ]
+    },
+    {
+      "image_index": 5,
+      "objects": [
+        {
+          "object_name": "unknown",
+          "object_type": "unknown",
+          "bbox": [
+            1860,
+            2119,
+            81,
+            41
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 1782.0,
+          "aspect_ratio": 1.975609756097561,
+          "circularity": 0.3693617133453801
+        },
+        {
+          "object_name": "unknown",
+          "object_type": "unknown",
+          "bbox": [
+            1756,
+            2117,
+            79,
+            43
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 1377.0,
+          "aspect_ratio": 1.8372093023255813,
+          "circularity": 0.26457334874323557
+        },
+        {
+          "object_name": "mug",
+          "object_type": "mug",
+          "bbox": [
+            1269,
+            2112,
+            59,
+            48
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 1748.0,
+          "aspect_ratio": 1.2291666666666667,
+          "circularity": 0.5423237887659679
+        },
+        {
+          "object_name": "box",
+          "object_type": "box",
+          "bbox": [
+            0,
+            336,
+            272,
+            168
+          ],
+          "barcode_text": null,
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 26348.0,
+          "aspect_ratio": 1.619047619047619,
+          "circularity": 0.16480089899959602
+        },
+        {
+          "object_name": "screwdriver",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "screwdriver",
+          "surface_normal": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "area": 8022948.5,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.3459507259481227
+        }
+      ]
+    },
+    {
+      "image_index": 6,
+      "objects": [
+        {
+          "object_name": "wrench",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "wrench",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 8065046.5,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.3112401549834113
+        }
+      ]
+    },
+    {
+      "image_index": 7,
+      "objects": [
+        {
+          "object_name": "bottle",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "bottle",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 8154646.0,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.42144000461208764
+        }
+      ]
+    },
+    {
+      "image_index": 8,
+      "objects": [
+        {
+          "object_name": "scissors",
+          "object_type": "unknown",
+          "bbox": [
+            0,
+            0,
+            3840,
+            2160
+          ],
+          "barcode_text": "scissors",
+          "surface_normal": [
+            0.0,
+            0.3011313679370974,
+            0.9535826651341417
+          ],
+          "area": 8155461.0,
+          "aspect_ratio": 1.7777777777777777,
+          "circularity": 0.3846775312193542
+        }
+      ]
+    }
+  ]
+}
